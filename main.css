@@ -1,0 +1,154 @@
+body, h1, h2, h3, h4, menu, .everything, .company, line {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: black;
+    background-image: url("cutting-board.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-family: "Nerko One", "Times New Roman", Arial;
+
+}
+.everything {
+    display:flex;
+    justify-content: space-between;
+}
+.menu {
+    padding-right: 55px;
+
+}
+a {
+    padding-right: 10px;
+}
+.company {
+    color: white;
+    font-size: 22px;
+    padding-left: 90px;
+    padding-top: 38px;
+}
+
+.border {
+    height: 2px;
+    width: 90%;
+    background-color: white;
+    margin-left: 80px;
+
+}
+.menu {
+    display: inline;
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 80px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+    font-size: 120px;
+    color: white;
+}
+.line{
+    height: 2px;
+    width: 20%;
+    background-color: white;
+    margin-left: 515px;
+    width: 30%;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 350px;
+}
+.box {
+    height: 400px;
+    width: 40%;
+    background-image: url("bread.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+}
+.box2 {
+    height: 400px;
+    width: 60%;
+    background-color: black;
+}
+.container {
+    display: flex;
+}
+.title {
+    font-size: 40px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+.text {
+    font-size: 20px;
+    color: white;
+    padding-left: 80px;
+}
+.box3 {
+    height: 400px;
+    width: 60%;
+    background-color: black;
+}
+.box4 {
+    height: 400px;
+    width: 40%;
+    background-image: url("pineapple.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.container2 {
+    display: flex;
+}
+.title2 {
+    font-size: 40px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 100px;
+}
+.text2 {
+    font-size: 20px;
+    color: white;
+    padding-left: 100px;
+}
+.box5 {
+    height: 400px;
+    width: 40%;
+    background-image: url("pasta.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.box6 {
+    height: 400px;
+    width: 60%;
+    background-color: black;
+}
+
+.title3 {
+    font-size: 40px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+.text3 {
+    font-size: 20px;
+    color: white;
+}
+.container3 {
+    display:flex;
+}
